@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="17" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$/../../src/main"/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/main"/>
+	<contentEntry url="file://$MODULE_DIR$/../../build/generated/sources/annotationProcessor/java/main"/>
+</component>

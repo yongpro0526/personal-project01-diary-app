@@ -11,8 +11,6 @@ import java.util.Optional;
 @Repository
 public interface DiaryRepository extends JpaRepository<Diary, Long> {
 
-    List<Diary> findByUserId;
-
     // 일기 1개 조회
     Optional<Diary> findById(Long id);
 
